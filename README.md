@@ -21,5 +21,6 @@ Welcome to the **Computational Physics** repository! This repository contains a 
 
 1. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dilinanp/computational-physics/blob/main/python_fundamentals_part_I.ipynb) Python Language Fundamentals - Part I
 2. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dilinanp/computational-physics/blob/main/python_fundamentals_part_II.ipynb) Python Language Fundamentals - Part II
+3. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dilinanp/computational-physics/blob/main/numpy_for_numerical_computations.ipynb) NumPy for Numerical Computations
 
 More tutorials will be added soon.
