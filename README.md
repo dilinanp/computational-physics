@@ -24,3 +24,6 @@ Welcome to the **Computational Physics** repository! This repository contains a 
 3. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dilinanp/computational-physics/blob/main/numpy_for_numerical_computations.ipynb) NumPy for Numerical Computations
 
 More tutorials will be added soon.
+
+## In-Class Exercises
+1. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dilinanp/computational-physics/blob/main/basic_python_exercises.ipynb) Beginner Python Exercises
